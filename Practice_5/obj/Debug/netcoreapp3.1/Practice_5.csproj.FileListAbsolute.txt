@@ -11,3 +11,16 @@ F:\C#\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.csproj.CoreCompileInputs.cac
 F:\C#\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.dll
 F:\C#\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.pdb
 F:\C#\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.genruntimeconfig.cache
+F:\C#\Practice\Practice_5\bin\Debug\netcoreapp3.1\Practice_5.exe
+F:\C#\Practice\Practice_5\bin\Debug\netcoreapp3.1\Practice_5.deps.json
+F:\C#\Practice\Practice_5\bin\Debug\netcoreapp3.1\Practice_5.runtimeconfig.json
+F:\C#\Practice\Practice_5\bin\Debug\netcoreapp3.1\Practice_5.runtimeconfig.dev.json
+F:\C#\Practice\Practice_5\bin\Debug\netcoreapp3.1\Practice_5.dll
+F:\C#\Practice\Practice_5\bin\Debug\netcoreapp3.1\Practice_5.pdb
+F:\C#\Practice\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.csprojAssemblyReference.cache
+F:\C#\Practice\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.AssemblyInfoInputs.cache
+F:\C#\Practice\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.AssemblyInfo.cs
+F:\C#\Practice\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.csproj.CoreCompileInputs.cache
+F:\C#\Practice\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.dll
+F:\C#\Practice\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.pdb
+F:\C#\Practice\Practice_5\obj\Debug\netcoreapp3.1\Practice_5.genruntimeconfig.cache
