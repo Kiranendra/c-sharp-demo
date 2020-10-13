@@ -1,0 +1,13 @@
+F:\C#\Practice\Practice_7\bin\Debug\netcoreapp3.1\Practice_7.exe
+F:\C#\Practice\Practice_7\bin\Debug\netcoreapp3.1\Practice_7.deps.json
+F:\C#\Practice\Practice_7\bin\Debug\netcoreapp3.1\Practice_7.runtimeconfig.json
+F:\C#\Practice\Practice_7\bin\Debug\netcoreapp3.1\Practice_7.runtimeconfig.dev.json
+F:\C#\Practice\Practice_7\bin\Debug\netcoreapp3.1\Practice_7.dll
+F:\C#\Practice\Practice_7\bin\Debug\netcoreapp3.1\Practice_7.pdb
+F:\C#\Practice\Practice_7\obj\Debug\netcoreapp3.1\Practice_7.csprojAssemblyReference.cache
+F:\C#\Practice\Practice_7\obj\Debug\netcoreapp3.1\Practice_7.AssemblyInfoInputs.cache
+F:\C#\Practice\Practice_7\obj\Debug\netcoreapp3.1\Practice_7.AssemblyInfo.cs
+F:\C#\Practice\Practice_7\obj\Debug\netcoreapp3.1\Practice_7.csproj.CoreCompileInputs.cache
+F:\C#\Practice\Practice_7\obj\Debug\netcoreapp3.1\Practice_7.dll
+F:\C#\Practice\Practice_7\obj\Debug\netcoreapp3.1\Practice_7.pdb
+F:\C#\Practice\Practice_7\obj\Debug\netcoreapp3.1\Practice_7.genruntimeconfig.cache
